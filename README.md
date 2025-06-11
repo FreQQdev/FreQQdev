@@ -8,7 +8,7 @@ Current quantum programming approaches rely heavily on gate-based abstractions (
 
 This repository hosts the project white paper:
 
-📄 [FreQQwhitepaper.pdf](FreQQwhitepaper.pdf)
+📄 FreQQwhitepaper.pdf
 
 ---
 
